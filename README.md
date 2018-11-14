@@ -23,8 +23,11 @@ Things you may want to cover:
 
 # INSTALL
 Ruby version 2.5.1 or higher
+
 PostgreSQL
+
 Bundler
+
 Ruby on Rails 2.5.3
 
 
