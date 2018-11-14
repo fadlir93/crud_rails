@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-# README
+# INSTALL
 Ruby version 2.5.1 or higher
 PostgreSQL
 Bundler
